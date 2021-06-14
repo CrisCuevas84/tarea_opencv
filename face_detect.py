@@ -29,3 +29,7 @@ for (x, y, w, h) in faces:
 
 cv2.imshow("Faces found", image)
 cv2.waitKey(0)
+
+#para correr el código:
+#python face_detect.py botas2.jpg
+#python face_detect.py pau.jpg
